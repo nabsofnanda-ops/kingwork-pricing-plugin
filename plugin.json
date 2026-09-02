@@ -1,0 +1,14 @@
+{
+  "name": "kingwork-pricing",
+  "version": "1.0.0",
+  "description": "Provides current King Work (Adelaide CBD) coworking pricing — Virtual Office, Meeting Room, Dedicated Desk, Private Office — plus common pricing FAQs, for agents handling enquiries or outreach.",
+  "category": "Tools",
+  "entry": "index.js",
+  "homepage": "https://www.kingwork.com.au/pricing",
+  "author": "Nabila",
+  "tags": ["coworking", "virtual-office", "adelaide", "pricing", "business-address"],
+  "data_source": "data/pricing.json",
+  "config": {
+    "KINGWORK_DATA_PATH": "Optional path to an updated pricing.json if prices change"
+  }
+}

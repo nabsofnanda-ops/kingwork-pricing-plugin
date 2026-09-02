@@ -1,0 +1,98 @@
+{
+  "business": "King Work",
+  "location": "Level 3, 117 King William St, Adelaide SA 5000",
+  "phone": "1300 051 031",
+  "website": "https://www.kingwork.com.au",
+  "currency": "AUD",
+  "gst_note": "No GST charged",
+  "contract_note": "No long-term lock-ins. Upgrade, downgrade or cancel monthly.",
+  "last_verified": "2026-09-02",
+  "products": [
+    {
+      "id": "virtual-office",
+      "name": "Virtual Office",
+      "price": 59,
+      "unit": "month",
+      "flagship": true,
+      "availability": "available",
+      "inclusions": [
+        "Prestigious Adelaide CBD business address",
+        "Mail handling",
+        "One free desk day each month",
+        "Verified Google Business listing",
+        "Address usable on website, invoices and ASIC records",
+        "Scales with business growth"
+      ],
+      "url": "https://www.kingwork.com.au/virtual-office-adelaide"
+    },
+    {
+      "id": "meeting-room",
+      "name": "Meeting Room",
+      "price": 200,
+      "unit": "day",
+      "availability": "limited",
+      "availability_note": "Only 6 remaining",
+      "inclusions": [
+        "Exclusive access 8am–6pm",
+        "65-inch 4K display",
+        "4K video conferencing camera",
+        "Private air purifier",
+        "Tea, Nespresso coffee, milks",
+        "Sweet snacks provided",
+        "Superfast internet",
+        "Use of private phone booths and reception area"
+      ],
+      "url": "https://www.kingwork.com.au/meeting-room-adelaide"
+    },
+    {
+      "id": "dedicated-desk",
+      "name": "Dedicated Desk",
+      "price": 299,
+      "unit": "month",
+      "availability": "booked",
+      "inclusions": [
+        "Permanent desk",
+        "HD monitor included",
+        "Fingerprint scan 24/7 access",
+        "End-of-trip facilities next door (showers, bike storage)",
+        "Access to meeting room and boardroom",
+        "Super-fast Wi-Fi and ergonomic seating"
+      ],
+      "url": "https://www.kingwork.com.au/contact?interest=dedicated-desk"
+    },
+    {
+      "id": "private-office",
+      "name": "Private Office",
+      "price": 1500,
+      "unit": "month",
+      "capacity": "up to 4 desks",
+      "availability": "unavailable",
+      "availability_note": "Currently Unavailable — limited spaces, filling fast",
+      "inclusions": [
+        "Exclusive, customisable space for up to 4 desks",
+        "Bright, naturally lit interior",
+        "Branding and decor freedom",
+        "All shared amenities included",
+        "Meeting rooms, breakout spaces and more"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does a virtual office in Adelaide cost?",
+      "a": "From $59/month. Includes a King William Street business address, mail handling, and address use for ASIC, ABN and Google Business Profile registration."
+    },
+    {
+      "q": "How much does it cost to hire a meeting room in Adelaide?",
+      "a": "$200/day. Includes 8am–6pm exclusive access, 65-inch 4K display, 4K video conferencing camera, coffee/tea/snacks and superfast Wi-Fi."
+    },
+    {
+      "q": "How much does a dedicated desk cost in Adelaide CBD?",
+      "a": "$299/month. Includes a permanent desk, HD monitor, fingerprint access, and full use of shared amenities."
+    },
+    {
+      "q": "Are there any lock-in contracts at King Work?",
+      "a": "No. Flexible monthly memberships — upgrade, downgrade or cancel anytime."
+    }
+  ]
+}
