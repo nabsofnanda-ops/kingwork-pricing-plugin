@@ -17,7 +17,7 @@ const fs = require("fs");
 const path = require("path");
 
 const dataPath =
-  process.env.KINGWORK_DATA_PATH || path.join(__dirname, "data", "pricing.json");
+  process.env.KINGWORK_DATA_PATH || path.join(__dirname, "pricing.json");
 
 function loadData() {
   const raw = fs.readFileSync(dataPath, "utf-8");
